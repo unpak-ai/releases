@@ -1,4 +1,4 @@
 # releases
 Only hosts Github Releases with built artifacts
 
-unpak.ai v1.0.2 Feb 2026
+unpak.ai v1.2.0 Feb 2026
